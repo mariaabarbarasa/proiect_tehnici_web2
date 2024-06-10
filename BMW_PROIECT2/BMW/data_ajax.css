@@ -1,0 +1,33 @@
+body 
+{
+  padding:0;
+  margin:0;
+  border: 0;
+  background-color: lightblue;
+}
+header h1.titlul 
+{
+  font-size: 100px;
+  font-weight: bold;
+  background-color: lightblue;
+  color:blueviolet;
+}
+header 
+{
+  display: grid;
+  text-align: center;
+  align-content: center;
+  margin: auto;  
+}
+#data_ajax-container h2
+{
+  padding: 20px;
+  font-size: 60px;
+  color: blueviolet;
+}
+#data_ajax-container
+{
+  padding: 20px;
+  font-size: 60px;
+  color: blueviolet;
+}
